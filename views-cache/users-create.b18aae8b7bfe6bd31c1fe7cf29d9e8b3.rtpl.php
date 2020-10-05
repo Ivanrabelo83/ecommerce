@@ -50,11 +50,11 @@
 
 
           <div class="form-group">
-            <label for="desemail">Senha</label>
-            <input type="password" class="form-control" id="password" name="password" placeholder="Digite  a senha">
+            <label for="despassword">Senha</label>
+            <input type="password" class="form-control" id="password" name="despassword" placeholder="Digite  a senha">
           </div>
             
-            </form>
+            
 
 
             <div class="checkbox">
